@@ -1,0 +1,8 @@
+echo "Django==5.0.3
+Pillow==10.1.0
+tensorflow==2.15.0
+keras==2.15.0
+opencv-python==4.8.1.78
+numpy==1.26.2
+pandas==2.1.3
+matplotlib==3.8.2" > requirements.txt
